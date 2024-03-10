@@ -1,0 +1,18 @@
+{
+  "name": "masssvgtopngconverter",
+  "version": "1.0.0",
+  "description": "Convert SVG files to PNG with transparent background",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mr5ecret",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Paeonic-Development/MassSvgToPng.git"
+  },
+  "dependencies": {
+    "svgexport": "^0.4.2"
+  }
+}
